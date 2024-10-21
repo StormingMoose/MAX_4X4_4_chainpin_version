@@ -54,6 +54,6 @@ void loop()
     while (message.endsWith("GET /H")){  if (movingswitch == false){lights(Yellow);};GO_SE();;movingswitch = true;}
     while (message.endsWith("GET /I")){  if (movingswitch == false){lights(White);};spin_Left();;movingswitch = true;}
     while (message.endsWith("GET /J")){  if (movingswitch == false){lights(White);};spin_Right();;movingswitch = true;}
-    while (message.endsWith("GET /off")){ if (movingswitch == true){if (movingswitch == false){lights(Red);}; GO_Stop();movingswitch = false;} }
+    while (message.endsWith("GET /off")){   lights(Red); GO_Stop(); movingswitch = false;}
 }
 
