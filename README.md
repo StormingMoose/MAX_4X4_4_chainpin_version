@@ -12,7 +12,8 @@ I left some serial prints so one can see the motor control issues.  mb stands fo
 When running the serial print line should print once for each motor that gets a message to go.  when going forward it should be all 4 every time, 
 but sometimes only 3 or two lines get printed, corresponding to what you will see with the motors.
 
-Hopefully someone can tune this up a bit.
+Hopefully we can tune this up a bit.
 
-For reasons unknown to me, the performance was much better using microsecond delays instead of the regular delay command.
+I posted a serial monitor example of the error problem, the front wheels are 62 and 46, the rear wheels are 63 and 47.
 
+There should be four lines of output when going North, the first two loops are fine but then only three wheels are willing to play.  I wish it was a consistent error that would point to a hardware issue, but nothing is pointing in that direction other than one grinds a bit.
