@@ -14,6 +14,6 @@ but sometimes only 3 or two lines get printed, corresponding to what you will se
 
 Hopefully we can tune this up a bit.
 
-I posted a serial monitor example of the error problem, the front wheels are 62 and 46, the rear wheels are 63 and 47.
+I posted a serial monitor picture example, Max4X4rror.jpg, of the problem, the front wheels are 62 and 46, the rear wheels are 63 and 47.
 
 There should be four lines of output when going North, the first loop shown is fine but then only 2 wheels are willing to play, until 4 wheels again for three lops.  I wish it was a consistent error that would point to a hardware issue, but nothing is pointing in that direction other than one grinds a bit.
