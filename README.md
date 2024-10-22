@@ -1,7 +1,7 @@
 # MAX_4X4_4_chainpin_version
 MAX_4X4_4_chainpin_version uses an adapted Meccanoid library to control the Meccano M.A.X. motors configured for mecanum wheels.
 
-Websockes are used since Http is too random in sending commands accurately and in a timely manner.  
+Websockets are used since Http is too random in sending commands accurately and in a timely manner.  
 
 Tried to break down the modules better but some of the techniques are elusive.
 
