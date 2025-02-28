@@ -1,6 +1,6 @@
 # MAX_4X4_4_chainpin_version
 
-Update Feb 27 2025 had to use Arduino boards manager Esp32 version 3.05
+Update Feb 27 2025 had to use Arduino boards manager Esp32 version 3.0.5
 
 
 MAX_4X4_4_chainpin_version uses an adapted Meccanoid library to control the Meccano M.A.X. motors configured for mecanum wheels.
