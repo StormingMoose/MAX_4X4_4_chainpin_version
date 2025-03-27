@@ -1,5 +1,6 @@
 # MAX_4X4_4_chainpin_version
 
+Update Mar 27 2025 after updates to the latest Arduino boards manager Esp32 firmware version 3.13 and AsyncTCP 1.1.4 this program compiled.
 Update Feb 27 2025 had to use Arduino boards manager Esp32 version 3.0.5
 
 
